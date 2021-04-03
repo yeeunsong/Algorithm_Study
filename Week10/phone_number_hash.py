@@ -1,3 +1,6 @@
+# A perfect solution using hash
+# Other people's code 
+
 def solution(phone_book):
     answer = True
     hash_map = {}
